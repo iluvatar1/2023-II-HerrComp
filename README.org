@@ -1,0 +1,4 @@
+Lectures notes for "Herramientas Computacionales" First intro to computational
+physics
+
+Click to go the [[https://mybinder.org/v2/gh/iluvatar1/HerrComp-FisComp-dev/HEAD][live binder repo]]
