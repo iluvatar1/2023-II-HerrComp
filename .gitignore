@@ -1,0 +1,9 @@
+*.cpp
+*.txt
+*.ipynb*checkpoint*
+*.pdf
+*.virtual*
+*.py
+*pycache*
+*.out
+*.x
